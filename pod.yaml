@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: python-backend
+  name: build-python-backend
 spec:
   containers:
   - name: kaniko
